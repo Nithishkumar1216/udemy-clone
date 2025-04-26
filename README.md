@@ -20,7 +20,7 @@ This is a basic Udemy website clone created using **HTML** and **CSS**.
 
 ## Project Link
 
-👉 [Click here to view the repository](https://github.com/Nithishkumar1216/udemy-clone)
+👉 [Click here to view the repository](https://nithishkumar1216.github.io/udemy-clone/)
 
 ## Future Improvements
 
